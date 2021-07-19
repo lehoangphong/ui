@@ -1,5 +1,7 @@
 # Screwdriver UI
 
+test ui process 1
+
 [![Version][version-image]][version-url] ![Downloads][downloads-image] [![Build Status][build-image]][build-url] [![Open Issues][issues-image]][issues-url] ![License][license-image]
 
 This README outlines the details of collaborating on this Ember application.
